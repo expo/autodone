@@ -1,6 +1,6 @@
 {
   "name": "autodone",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A decorator for async functions that automatically calls `done()` on the returned promise",
   "main": "autodone.js",
   "scripts": {
